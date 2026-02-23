@@ -1,0 +1,20 @@
+# Site settings
+title: apabolleta's workspace
+email: "apabolleta@gmail.com"
+description: >-
+  A personal blog by Asier Pabolleta Martorell about engineering,
+  computer science, and more.
+domain: apabolleta.github.io
+url: "https://apabolleta.github.io"
+author:
+  name: Asier Pabolleta Martorell
+  email: "apabolleta@gmail.com"
+
+# Build settings
+remote_theme: "jekyll/minima@1e8a445"
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
